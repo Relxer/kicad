@@ -1,3 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP PCM5100A
+D PCM5100A (2VRMS DirectPath™, 100dB Audio Stereo DAC with 32-bit, 384kHz PCM Interface)
+K pcm5100
+F /home/theeren/Desktop/relxer/kicad/datasheets/pcm5100a.pdf
+$ENDCMP
+#
 #End Doc Library
