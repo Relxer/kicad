@@ -1,2 +1,3 @@
-# kicad
-KiCad repo for footprints, datasheets, 3d models
+# kiCad
+
+KiCad repo for footprints, datasheets, 3D models
